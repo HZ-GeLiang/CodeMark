@@ -1,6 +1,6 @@
 # Important Notice
 1. This plugin is not provided for free, and I have no plans to sell it externally.
-2. If you like this plugin and want to unlock all its features, please click the free "star" button, and then send your machine code to my email address. I will reply with an activation code.
+2. If you like this plugin and want to unlock all its features, please click the free "star" button, and then send your machine code to my email address(chatg@qq.com). I will reply with an activation code.
     1. The activation code has no time limit or functional restrictions.
     2. The activation code is only valid for your current device and will become invalid if you change the device.
 3. In the unactivated state, the plugin only supports 1 sln project, and the second IDE instance will not be loaded.
